@@ -102,3 +102,4 @@ void Math2(int a, int b, int c, int d){		// Вторая часть програ
 	X2 = ((-b - rad_d) / (2 * a));			// Находим X2
 	printf("%f\n\n", X2);
 }
+
