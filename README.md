@@ -8,7 +8,7 @@
 #### [Релиз 1.1](https://github.com/BassmanOff/Quadratic_equation_C_RUS/releases)
 |Платформа|Ссылка|
 | ------- | ---- |
-|macOS|[Скачать](https://github.com/BassmanOff/Quadratic_equation_C_RUS/releases/download/1.1/BMC_QEQ_macOS.zip)|
-|Windows|[Скачать](https://github.com/BassmanOff/Quadratic_equation_C_RUS/releases/download/1.1/BMC_QEQ_WINx64.exe)|
+|macOS|[Скачать](https://github.com/BassmanOff/Quadratic_equation-QEQ-C_RUS/releases/download/1.1/BMC_QEQ_macOS.zip)|
+|Windows|[Скачать](https://github.com/BassmanOff/Quadratic_equation-QEQ-C_RUS/releases/download/1.1/BMC_QEQ_WINx64.exe)|
 |Linux x64|[Скачать](https://github.com/BassmanOff/Quadratic_equation-QEQ-C_RUS/releases/download/1.1/BMC_QEQ_Linux.tar.xz)|
-|Linux ARM|[Скачать](https://github.com/BassmanOff/Quadratic_equation_C_RUS/releases/download/1.1/BMC_QEQ_ARM32.tar.xz)|
+|Linux ARM|[Скачать](https://github.com/BassmanOff/Quadratic_equation-QEQ-C_RUS/releases/download/1.1/BMC_QEQ_Linux_ARM32.tar.xz)|
